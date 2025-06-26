@@ -1,13 +1,3 @@
-# Character Queries by ID
+# Character Queries
 
-This directory contains GraphQL queries and their results using the Rick and Morty GraphQL API.
-
-## API Endpoint
-
-- https://rickandmortyapi.com/graphql
-
-## Structure
-
-Each file contains:
-- `.graphql`: A GraphQL query for a specific character ID
-- `.json`: The output of that query
+This directory contains GraphQL queries and their JSON outputs for characters with ID 1 to 4 using the Rick and Morty API.
